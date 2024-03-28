@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('/viva_amazing/public/fonts/MyriadProRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-myriad-pro {
+  font-family: 'Myriad Pro', sans-serif;
+}

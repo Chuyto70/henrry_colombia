@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+font-family: "Myriad Pro";
+src: url("/viva_amazing/public/fonts/MyriadProRegular.ttf") format("truetype");
+}
